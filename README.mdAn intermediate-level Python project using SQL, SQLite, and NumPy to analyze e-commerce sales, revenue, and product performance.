@@ -1,0 +1,75 @@
+🛒 E-Commerce Sales Analyzer
+
+📌 About the Project
+
+E-Commerce Sales Analyzer is an intermediate-level Python project that analyzes product sales, revenue, and monthly sales using SQL and NumPy. It stores product and order information in a database and provides useful sales insights through a simple menu-driven program.
+
+🚀 Features
+
+- View all available products
+- Calculate total sales revenue
+- Generate product-wise sales reports
+- Identify the best-selling product
+- Analyze monthly sales revenue
+- Calculate total and average units sold
+- Calculate average monthly revenue
+
+🛠️ Technologies Used
+
+- Python – Program logic and menu system
+- SQL – Database queries and sales analysis
+- SQLite – Stores product and order data
+- NumPy – Numerical calculations
+
+📂 Project Structure
+
+E-Commerce-Sales-Analyzer/
+│
+├── ecommerce_analyzer.py
+├── ecommerce.db
+└── README.md
+
+Note: "ecommerce.db" is automatically created when the program runs.
+
+⚙️ Installation and Setup
+
+Step 1: Install Python on your computer.
+
+Step 2: Install NumPy using the terminal:
+
+pip install numpy
+
+Step 3: Run the program:
+
+python ecommerce_analyzer.py
+
+Step 4: Choose an option from the menu to analyze sales data.
+
+📊 Sample Output
+
+===== E-COMMERCE SALES ANALYZER =====
+1. View Products
+2. Total Revenue
+3. Product Sales Report
+4. Best-Selling Product
+5. Monthly Sales
+6. Exit
+
+Enter your choice: 2
+Total Revenue: Rs. 280000.0
+
+🎯 Learning Outcomes
+
+- Practiced Python programming and control statements
+- Learned how to create and use database tables
+- Practiced SQL queries, JOIN, GROUP BY, and aggregate functions
+- Used NumPy for numerical analysis
+- Learned to analyze sales data and generate reports
+
+👩‍💻 Author
+
+Created as a Python learning project to practice database management and sales data analysis.
+
+---
+
+⭐ If you find this project useful, feel free to explore the code!
